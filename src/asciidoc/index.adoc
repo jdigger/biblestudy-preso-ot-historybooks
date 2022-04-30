@@ -1,0 +1,601 @@
+[%notitle]
+= The Old Testament History Books
+:imagesdir: images
+:icons: font
+:revealjs_width: "1200"
+:revealjs_height: "768"
+:revealjs_minScale: 0.2
+:revealjs_maxScale: 2.0
+:customcss: ./preso.css
+:revealjs_theme: simple
+:revealjs_history: true
+:revealjs_transition: none
+// :revealjs_controls: false
+
+++++
+<br/><br/><div class="content" style="display: flex; text-align: center;">
+<p style="font-size: 0.5em; width: 100%"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Old Testament History Books</span> by
+<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under
+a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />
+Presentation source at <a xmlns:dct="http://purl.org/dc/terms/" href="https://jdigger.github.io/biblestudy-preso-ot-historybooks/" rel="dct:source">https://jdigger.github.io/biblestudy-preso-ot-historybooks/</a></p></div>
+++++
+
+
+== Agenda
+
+* Overview
+* The Theocracy
+* The Monarchy
+* Release and Restoration
+* Summary
+
+
+== Overview 1
+
+Joshua, Judges, and Ruth tell the earliest history of the Jews; 1 & 2 Samuel with 1 & 2 Kings, and 1 & 2 Chronicles cover about five hundred years reporting the fall of Judah to Babylon. The next three books, Ezra, Nehemiah, and Esther are about their life in captivity, release from it, and the restoration of Jerusalem.
+
+== Overview 2
+
+Covering about 800 years of Israel's history, these twelve books tell about the conquering and possession of Canaan, the reigns of the judges, the establishment of kings, the division of Israel into the northern and Southern Kingdoms, the fall of the Northern Kingdom to Assyria, the exile of the Southern Kingdom into Babylon, and the return to Jerusalem.
+
+== The Theocracy
+
+== The Theocracy
+
+Joshua, Judges, and Ruth cover the period when Israel was ruled by God (1405-1043 B.C.).
+
+[.smaller]
+--
+[cols="2a,2a,2a"]
+|===
+|
+ * Joshua
+  ** *author:* Joshua?
+  ** *dates:* ~1400-1370 B.C.
+  ** *key themes:* possession, conquest, victory, dividing the land
+|
+ * Judges
+  ** *author*: Samuel? (with help from Nathan and Gad?)
+  ** *dates:* ~1050-1000 B.C.
+  ** *key themes:* evil, judgment, cycles
+|
+ * Ruth
+  ** *author*: Samuel? (with help from Nathan and Gad?)
+  ** *dates:* ~1000 B.C.?
+  ** *key themes:* Kinsman-Redeemer
+|===
+--
+
+== Joshua
+
+Conquest and Possession of the Promised Land
+
+image::jericho.jpg[]
+
+
+== Joshua - Themes
+
+The book of Joshua is designed to show God's faithfulness to His promises by conquering, possessing, and dividing the Promised Land with its fortified cities.
+
+== Joshua - His Names
+
+Joshua, the son of Nun, was Moses' servant. His original name was Hoshea (Num. 13:8; Deut. 32:44) which means "`salvation.`" But during the wilderness wanderings Moses changed his name to Yehoshua, meaning "`Yahweh is salvation`" or "`Save, Yahweh`" (Num. 13:16). Joshua is a contracted form of Yehoshua.
+
+== Joshua - Some Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Joshua+1%3A8-9&version=NKJV[Joshua 1:8-9] This Book of the Law shall not depart from your mouth, but you shall meditate in it day and night, that you may observe to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success. Have I not commanded you? Be strong and of good courage; do not be afraid, nor be dismayed, for the Lord your God is with you wherever you go.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Joshua+4:14&version=NKJV[Joshua 4:14] "`On that day the Lord exalted Joshua in the sight of all Israel; and they feared him, as they had feared Moses, all the days of his life.`"
+
+== Joshua - Some Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Joshua+11%3A23&version=NKJV[Joshua 11:23] So Joshua took the whole land, according to all that the Lord had said to Moses; and Joshua gave it as an inheritance to Israel according to their divisions by their tribes. Then the land rested from war.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Joshua+24%3A14-15&version=NKJV[Joshua 24:14-15] "`Now therefore, fear the Lord, serve Him in sincerity and in truth, and put away the gods which your fathers served on the other side of the River and in Egypt. Serve the Lord! And if it seems evil to you to serve the Lord, choose for yourselves this day whom you will serve, whether the gods which your fathers served that were on the other side of the River, or the gods of the Amorites, in whose land you dwell. But as for me and my house, we will serve the Lord.`"
+
+
+== Joshua - Previews of Christ 1
+
+Though there are no direct Messianic prophecies of Christ, there are a number of types which point to the Savior. Joshua is a type of Christ in two very important ways.
+
+First, his name, Yeshua, a contracted form of Yehoshua, meaning, "`Yahweh is salvation,`" is the Greek equivalent of the name Jesus. Joshua is actually called by the name Jesus in the the Greek-written book of Acts:
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Acts+7%3A45&version=KJV[Acts 7:45 KJV] Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;
+
+== Joshua - Previews of Christ 2
+
+Second, Joshua is seen as a type of Christ in his work of leading Israel triumphantly into the rest of their promised possession, the land of Canaan (cf. Heb. 4:8). This is but a foretaste of the rest we enter by faith in Christ. He surely foreshadows the Savior who leads "`many sons to glory`" (Heb. 2:9-10). Further, Joshua was met by the Commander of the Lord's army in https://www.biblegateway.com/passage/?search=Joshua+5%3A13-15&version=NKJV[5:13-15]. This is undoubtedly a Christophany, a preincarnate appearance of Christ.
+
+
+
+
+
+== Judges
+
+Cycles of Apostasy, Judgment, and Deliverance
+
+image::samson-brings-down-the-house.jpg[]
+
+== Judges - Themes 1
+
+The book of Judges spans 325 years, showing the judgment of God, as well as His forgiveness.
+
+Canaan had been inhabited by evil nations who worshipped many false gods and idols. The Israelites again compromised and allowed the influence of those practices to corrupt them.
+
+== Judges - Themes 2
+
+First the judges deliver the people; then they rule and administer justice.
+
+The best known judges are Deborah, Gideon, and Samson.
+
+== Judges - Purpose 1
+
+The contrast between the moods of Joshua and Judges is striking. Israel goes from the thrill of victory to the agony of defeat. From freedom to oppression.
+
+Historically, Judges bridges the gap from the time of Joshua to the time of the prophet Samuel, and the beginning of the monarchy under Saul and David. It records the history of seven cycles of decline, oppression, supplication, and deliverance.
+
+== Judges - Purpose 2
+
+As God had warned in Deuteronomy, obedience brings blessing, but disobedience results in God's discipline.
+
+In doing so, it becomes an explanation for why Israel wanted a king, even though they were warned not to.
+
+
+== Judges - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Judges+1%3A27-33&version=NKJV[Judges 1:27-33] However, Manasseh did not drive out the inhabitants... And it came to pass, when Israel was strong, that they put the Canaanites under tribute, but did not completely drive them out. Nor did Ephraim drive out the Canaanites... so the Canaanites dwelt in Gezer among them. Nor did Zebulun drive out the inhabitants... so the Canaanites dwelt among them, and were put under tribute. Nor did Asher drive out the inhabitants... So the Asherites dwelt among the Canaanites, the inhabitants of the land; for they did not drive them out. Nor did Naphtali drive out the inhabitants... the inhabitants of Beth Shemesh and Beth Anath were put under tribute to them.
+
+== Judges - Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Judges+2%3A20-23&version=NKJV[Judges 2:20-23] Then the anger of the Lord was hot against Israel; and He said, "`Because this nation has transgressed My covenant which I commanded their fathers, and has not heeded My voice, I also will no longer drive out before them any of the nations which Joshua left when he died, so that through them I may test Israel, whether they will keep the ways of the Lord, to walk in them as their fathers kept them, or not.`" Therefore the Lord left those nations, without driving them out immediately; nor did He deliver them into the hand of Joshua.
+
+
+
+== Judges - Previews of Christ
+
+Since each judge functioned as a ruler-deliverer, they served as pictures of His work as Savior and Lord, the Righteous Deliverer King.
+
+
+== Ruth
+
+Living In the Shadow of the Judges
+
+== Ruth - Themes 1
+
+Ruth is the story of a couple in Israel who, during a time of famine, moved to Moab. There the husband and his two sons died, leaving the mother (Naomi) alone with her two daughters-in-law (Orpah and Ruth). Naomi decided to move back to Israel, and Ruth insisted on returning with her. Once in Israel, they turned to a relative by the name of Boaz for help. Eventually, Ruth married Boaz.
+
+Ruth sparkles against the dark days of the book of Judges. Ruth is the story of loyalty, purity, and love when anarchy, selfishness, and depravity was generally the rule.
+
+== Ruth - Themes 2
+
+Ruth also serves as an important link in the ancestry of King David and is found in the line of Messiah (Matt 1:5).
+
+Other purposes of Ruth are seen in the way it illustrates the truths of the Kinsman-Redeemer, the presence of a godly remnant even in times of great apostasy, and God's faithfulness to those who will walk with Him by faith. Since Ruth was a Gentile, the book illustrates God's desire to bring the Gentile world into the family of God.
+
+== Ruth - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Ruth+1%3A15-17&version=NKJV[Ruth 1:15-17] And she said, "`Look, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law.`" But Ruth said: "`Entreat] me not to leave you, Or to turn back from following after you; For wherever you go, I will go;
+And wherever you lodge, I will lodge; Your people shall be my people, And your God, my God. Where you die, I will die, And there will I be buried. The Lord do so to me, and more also, If anything but death parts you and me.`"
+
+== Ruth - Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Ruth+4%3A13-17&version=NKJV[Ruth 4:13-17] So Boaz took Ruth and she became his wife; and when he went in to her, the Lord gave her conception, and she bore a son... Also the neighbor women gave him a name, saying, "`There is a son born to Naomi.`" And they called his name Obed. He is the father of Jesse, the father of David.
+
+== Ruth - Previews of Christ 1
+
+In the Old Testament, if a person or an estate were sold into bondage, they could be redeemed if certain requirements were met by what is called the Kinsman-Redeemer or _goel_, "`close relative.`" This is a great illustration of the redemptive work of the Savior. 
+
+== Ruth - Previews of Christ 2
+
+The _goel_ must:
+
+1. be a blood relative (a kinsman) of those he redeems (Deut. 25:5, 7-10; John 1:14; Rom. 1:3; Phil. 2:5-8; Heb. 2:14-15)
+2. be able to pay the price of redemption (cf. 2:1; 1 Pet. 1:18-19)
+3. be willing to redeem or pay the price (cf. 3:11; Matt. 20:28; John 10:15, 19; Heb. 10:7)
+4. be free himself, as Christ was free from the curse of sin, being without sin (2 Cor. 5:21; 1 Pet. 2:22; 1 John 3:5)
+
+
+
+
+
+
+
+== The Monarchy
+
+== The Monarchy
+
+Covering a 500 year period, these books trace the history of Israel's monarchy from its establishment and destruction, to God's people in bondage, the treasures of the Temple stolen, and Solomon's Temple destroyed.
+
+
+[.smaller]
+--
+[cols="2a,2a,2a"]
+|===
+|
+ * 1 & 2 Samuel
+  ** *author:* Samuel? (with help from Nathan and Gad?)
+  ** *dates:* 930 B.C. and later
+  ** *key themes:* transition, anoint, rejected; David
+|
+ * 1 & 2 Kings
+  ** *author:* Jeremiah?
+  ** *dates:* ~550 B.C.
+  ** *key themes:* kingdom, civil division; prophet, dispersion/captivity
+|
+ * 1 & 2 Chronicles
+  ** *author:* Ezra?
+  ** *dates:* 450-425 B.C.
+  ** *key themes:* David, the Davidic Covenant; the priestly perspective of Judah
+|===
+--
+
+
+
+
+== First Samuel
+
+Transition From Judges to Kingship
+
+== First Samuel - Themes 1
+
+Beginning with the birth of Samuel and his training in the temple, 1 Samuel describes how this great man of God led Israel as prophet, priest, and the last judge.
+
+This book traces the transition of leadership in the nation from judges to kings, from a theocracy to a monarchy.
+
+== First Samuel - Themes 2
+
+Under God's direction, Samuel anointed Saul to be the first king, but Saul was rejected by God because of his disobedience. To replace Saul, under God's directions Samuel anointed David.
+
+David illustrated the principle that, "`the Lord does not see as man sees`" (16:7). The Lord established David's dynasty because of David's obedience, wisdom, and dependence on God.
+
+== First Samuel - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Samuel+8%3A6-7&version=NKJV[1 Samuel 8:6-7] But the thing displeased Samuel when they said, "`Give us a king to judge us.`" So Samuel prayed to the Lord. And the Lord said to Samuel, "`Heed the voice of the people in all that they say to you; for they have not rejected you, but they have rejected Me, that I should not reign over them.`"
+
+== First Samuel - Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Samuel+13%3A14&version=NKJV[1 Samuel 13:14] But now your kingdom shall not continue. The Lord has sought for Himself a man after His own heart, and the Lord has commanded him to be commander over His people, because you have not kept what the Lord commanded you.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Samuel+15%3A22-23&version=NKJV[1 Samuel 15:22-23] So Samuel said: "`Has the Lord as great delight in burnt offerings and sacrifices, As in obeying the voice of the Lord? Behold, to obey is better than sacrifice, And to heed than the fat of rams. For rebellion is as the sin of witchcraft, And stubbornness is as iniquity and idolatry. Because you have rejected the word of the Lord, He also has rejected you from being king.`"
+
+== First Samuel - Previews of Christ 1
+
+Samuel forms an interesting portrait of Christ in that he was a prophet, a priest, and though he was not a king, he was a judge who was used of God to inaugurate a new age of kings.
+
+Messiah is literally "`the anointed one`" and Samuel is the first biblical book to use the word anointed (2:10).
+
+== First Samuel - Previews of Christ 2
+
+Furthermore, the primary portrait and anticipation of Messiah is found in the life of David. He was born in Bethlehem, worked as a shepherd, was ruler over Israel, and became the forerunner of Messiah King through the Davidic dynasty.
+
+In the New Testament, Christ is described as a "`descendant of David according to the flesh`" (Rom. 1:3).
+
+
+
+
+== Second Samuel
+
+David's Reign; Expansion of the Nation
+
+== Second Samuel - Themes
+
+The forty-year reign of David (5:4-5) and traces his reign through his triumphs and tragedies. 
+
+In the typical fashion, the Bible candidly tells the story of its leaders with warts and all. Including his sins of adultery, murder, and their consequences on his family and the nation.
+
+== Second Samuel - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Samuel+7%3A12-16&version=NKJV[2 Samuel 7:12-16] "`When your days are fulfilled and you rest with your fathers, I will set up your seed after you, who will come from your body, and I will establish his kingdom. He shall build a house for My name, and I will establish the throne of his kingdom forever. I will be his Father, and he shall be My son. If he commits iniquity, I will chasten him with the rod of men and with the blows of the sons of men. But My mercy shall not depart from him, as I took it from Saul, whom I removed from before you. And your house and your kingdom shall be established forever before you. Your throne shall be established forever.`"
+
+== Second Samuel - Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Samuel+12%3A12-14&version=NKJV[2 Samuel 12:12-14] "`For you did it secretly, but I will do this thing before all Israel, before the sun.`" So David said to Nathan, "`I have sinned against the Lord.`" And Nathan said to David, "`The Lord also has put away your sin; you shall not die. However, because by this deed you have given great occasion to the enemies of the Lord to blaspheme, the child also who is born to you shall surely die.`"
+
+== Second Samuel - Previews of Christ
+
+With the exception of his sins, David remains a type of Christ as the king of Israel. It is in this chapter that God establishes the Davidic Covenant, which ultimately has its fulfillment in the person of Christ.
+
+
+
+== First Kings
+
+David's Death; Disruption of the Kingdom
+
+== First Kings - Themes 1
+
+David's son Solomon became king. Chapters 1-11 trace the life and reign of Solomon, including Israel's rise to the peak of her glory, the spread of the nation's kingdom, and the construction of the temple and palace in Jerusalem.
+
+But in Solomon's later years, he drifted from the Lord because of his pagan wives.
+
+== First Kings - Themes 2
+
+The king with the divided heart leaves behind a divided kingdom. For the next century, the book of First Kings traces the twin histories of two sets of kings and two nations (Israel in the north, and Judah in the south) of disobedient people.
+
+== First Kings - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Kings+9%3A3-7&version=NKJV[1 Kings 9:3-7] And the Lord said to him: "`I have heard your prayer and your supplication that you have made before Me; I have consecrated this house which you have built to put My name there forever, and My eyes and My heart will be there perpetually... But if you or your sons at all turn from following Me, and do not keep My commandments and My statutes which I have set before you, but go and serve other gods and worship them, then I will cut off Israel from the land which I have given them; and this house which I have consecrated for My name I will cast out of My sight. Israel will be a proverb and a byword among all peoples.`"
+
+== First Kings - Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Kings+11%3A11&version=NKJV[1 Kings 11:11] Therefore the Lord said to Solomon, "`Because you have done this, and have not kept My covenant and My statutes, which I have commanded you, I will surely tear the kingdom away from you and give it to your servant.`"
+
+== First Kings - Previews of Christ
+
+Like David, Solomon is one of the greatest types in the Old Testament of Christ, portraying Messiah in His future reign on earth. Solomon also portrays Christ in the great wisdom he demonstrated.
+
+
+
+== Second Kings
+
+Willful Sin Has a Terrible End
+
+== Second Kings - Themes 1
+
+Second Kings continues the history of Elijah and his successor, Elisha. In both kingdoms the prophets continued to warn the people that God would punish them unless they repented.
+
+== Second Kings - Themes 2
+
+After years of pleading with His people through the prophets, God's patience finally turns to discipline just as He promised.
+
+Israel fell to Assyria in 722 B.C. and Judah fell to the Babylonians in 586 B.C. 
+
+== Second Kings - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Kings+17%3A18-23&version=NKJV[2 Kings 17:18-23] Therefore the Lord was very angry with Israel, and removed them from His sight; there was none left but the tribe of Judah alone. Also Judah did not keep the commandments of the Lord their God, but walked in the statutes of Israel which they made. And the Lord rejected all the descendants of Israel, afflicted them, and delivered them into the hand of plunderers, until He had cast them from His sight. For He tore Israel from the house of David, and they made Jeroboam the son of Nebat king. Then Jeroboam drove Israel from following the Lord, and made them commit a great sin. For the children of Israel walked in all the sins of Jeroboam...
+
+== Second Kings - Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Kings+23%3A27&version=NKJV[2 Kings 23:27] And the Lord said, "I will also remove Judah from My sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, '`My name shall be there.`' "
+
+== Second Kings - Previews of Christ
+
+[.smaller]
+--
+|===
+| Elijah | Elisha
+
+| noted for great public acts | distinguished by the large number of miracles he performed, many of them for individual needs
+
+| ministry emphasized God's law, judgment, and severity | demonstrated God's grace, love and tenderness
+
+| like John the Baptist, thundering the message of repentance for sin | like Jesus, followed this up by doing deeds of kindness, and miracles attesting that the words of the prophets were from God
+|===
+--
+
+
+== 1 & 2 Kings in Contrast
+
+[.smaller]
+--
+|===
+| 1 Kings | 2 Kings
+
+| Begins with King David | Ends with the king of Babylon
+| Opens with Solomon's glory | Closes with king Johoiachin's shame
+| Opens with the building of the Temple | Closes with the burning of the Temple
+| Traces the progress of apostasy | The consequences of apostasy
+| Kings fail to rule God's people | Consequences of that failure
+| The prophet Elijah | The prophet Elisha
+| The patience of God | The sure punishment of sin
+|===
+--
+
+[.smallest]
+Charles Caldwell Ryrie, Ryrie Study Bible, Expanded Edition, Moody, Chicago, electronic media
+
+
+
+
+
+== First Chronicles
+
+Preparation of the New Temple
+
+== First Chronicles - Themes 1
+
+First Chronicles begins with an outline of history from Adam through the reign of King David. It was written for the returned exiles to remind them that they came from the royal line of David and that they were God's chosen people.
+
+The genealogies point out that the promises to David had their source in those pledged to Abraham that He would make him the father of a great nation -- one through which He would bless the nations. God is faithful to His covenant.
+
+== First Chronicles - Themes 2
+
+While covering many of the same events of the books of Samuel and Kings, those books gave Man's viewpoint of the history, while Chronicles give God's perspective.
+
+Chronicles emphasizes the role of the Law, the priesthood, and the temple. The past was pregnant with lessons for their present. Apostasy, idolatry, intermarriage with Gentiles, and lack of unity were the reasons for their recent ruin.
+
+It is significant that after the Exile, Israel never again worshiped foreign gods.
+
+== First Chronicles - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Chronicles+11%3A1-3&version=NKJV[1 Chronicles 11:1-3] Then all Israel came together to David at Hebron, saying, "Indeed we are your bone and your flesh. 2 Also, in time past, even when Saul was king, you were the one who led Israel out and brought them in; and the Lord your God said to you, '`You shall shepherd My people Israel, and be ruler over My people Israel.`'" Therefore all the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before the Lord. And they anointed David king over Israel, according to the word of the Lord by Samuel.
+
+
+== First Chronicles - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=1+Chronicles+17%3A11-14&version=NKJV[1 Chronicles 17:11-14] And it shall be, when your days are fulfilled, when you must go to be with your fathers, that I will set up your seed after you, who will be of your sons; and I will establish his kingdom. He shall build Me a house, and I will establish his throne forever. I will be his Father, and he shall be My son; and I will not take My mercy away from him, as I took it from him who was before you. And I will establish him in My house and in My kingdom forever; and his throne shall be established forever.
+
+== First Chronicles - Previews of Christ
+
+Everything said about David before :-)
+
+
+
+
+
+== Second Chronicles
+
+Destruction of the Temple
+
+== Second Chronicles - Themes
+
+2 Chronicles focuses on those kings who did walk after the lifestyle of David, from the building of the temple during Solomon's reign to the final destruction of Jerusalem and the exile of the people to Babylon.
+
+In Kings the palace is central, but in Chronicles the temple is prominent. In Kings the focus is on the political history, while in Chronicles the focus is on the religious or spiritual element of Israel's history.
+
+
+== Second Chronicles - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Chronicles+7%3A14&version=NKJV[2 Chronicles 7:14] ...if My people who are called by My name will humble themselves, and pray and seek My face, and turn from their wicked ways, then I will hear from heaven, and will forgive their sin and heal their land.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Chronicles+36%3A14&version=NKJV[2 Chronicles 36:14] Moreover all the leaders of the priests and the people transgressed more and more, according to all the abominations of the nations, and defiled the house of the Lord which He had consecrated in Jerusalem.
+
+== Second Chronicles - Previews of Christ
+
+The throne of David has been destroyed, but the line of David remains. Murders, treachery, battles, and captivity all threaten the messianic line, but it remains clear and unbroken all the way back to Adam. The fulfillment in Christ can be seen in the genealogies of Matthew 1 and Luke Luke 3.
+
+The temple which is so prominent in 2 Chronicles is a beautiful portrait of Christ (see Matt. 12:6; John 2:19; and Revelation 21:22).
+
+
+
+
+
+
+== Release and Restoration
+
+== Release and Restoration
+
+Ezra, Nehemiah, and Esther complete the section of Old Testament history.
+
+[.smaller]
+--
+[cols="2a,2a,2a"]
+|===
+|
+ * Ezra
+  ** *author:* Ezra
+  ** *dates:* ~450 B.C.
+  ** *key themes:* Jerusalem, temple
+|
+ * Nehemiah
+  ** *author:* Ezra/Nehemiah
+  ** *dates:* ~435 B.C.
+  ** *key themes:* rebuilding
+|
+ * Esther
+  ** *author:* unknown
+  ** *dates:* ~465 B.C.
+  ** *key themes:* God's providence in caring for the Jews
+|===
+--
+
+
+
+== Ezra
+
+Reconstruction of the Temple and Restoration of the People
+
+== Ezra - Themes
+
+After seventy years of exile, God fulfilled His promise to return His people to the land of promise.
+
+It begins with the decree of Cyrus, king of Persia, which allowed a remnant of the people to return. The people enthusiastically began rebuilding the temple, but were delayed for 18 years by enemies from the north. Finally a decree from Darius let them finish.
+
+The priest Ezra taught the people the Law, and reformed the nation's spiritual life.
+
+
+== Ezra - Key Verses 1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Ezra+2%3A1&version=NKJV[Ezra 2:1] Now these are the people of the province who came back from the captivity, of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his own city.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Ezra+7%3A10&version=NKJV[Ezra 7:10] For Ezra had prepared his heart to seek the Law of the Lord, and to do it, and to teach statutes and ordinances in Israel.
+
+== Ezra - Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Ezra+6%3A21-22&version=NKJV[Ezra 6:21-22] Then the children of Israel who had returned from the captivity ate together with all who had separated themselves from the filth of the nations of the land in order to seek the Lord God of Israel. And they kept the Feast of Unleavened Bread seven days with joy; for the Lord made them joyful, and turned the heart of the king of Assyria toward them, to strengthen their hands in the work of the house of God, the God of Israel.
+
+
+== Ezra - Previews of Christ
+
+God continued to keep His promises by restoring His people to their land, and restoring the line of David for the Messiah.
+
+
+
+== Nehemiah
+
+Reconstruction of the City
+
+== Nehemiah - Themes
+
+Nehemiah gave up his position as cupbearer to the Persian king, to become governor of Jerusalem and lead the people in repairing the city walls. Ezra and Nehemiah were contemporaries.
+
+By obedient faith under the leadership of Nehemiah, they overcome what appeared to be insurmountable opposition.
+
+
+== Nehemiah - Key Verses
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Nehemiah+4%3A6-6%3A16&version=NKJV[Nehemiah 4:6-6:16] So we built the wall, and the entire wall was joined together up to half its height, for the people had a mind to work... So the wall was finished on the twenty-fifth day of Elul, in fifty-two days. And it happened, when all our enemies heard of it, and all the nations around us saw these things, that they were very disheartened in their own eyes; for they perceived that this work was done by our God.
+
+
+== Nehemiah - Previews of Christ
+
+Nehemiah was willing to leave his high position in order to bring about His work of restoration.
+
+The decree of Artaxerxes marks the beginning point of Daniel's prophecy of seventy weeks of years which, though interrupted by an unspecified time, begins the countdown for the return of Messiah (https://www.biblegateway.com/passage/?search=Daniel+9%3A25-27&version=NKJV[Dan. 9:25-27]).
+
+
+
+== Esther (Protection of God's People)
+
+Though the Bible places Esther after the book of Nehemiah, the events in Esther occurred about 30 years before those in Nehemiah. The story includes intrigue, romance, and a demonstration of God's powerful sovereignty.
+
+As the search for a queen ensued, Esther's beauty got the attention and great love of the Persian King Xerxes, chosing her as his new queen, not knowing she was Jewish.
+
+Through the discovery of an assassination plan, Esther's cousin Mordecai informed Esther and she saved the king. In turn, through Esther's and Mordecai's courage, the king gave favor to the Jewish people, therefore saving the nation. (Remembered today as the festival Purim.)
+
+== Esther - Key Verses
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Esther+4%3A14&version=NKJV[Esther 4:14] For if you remain completely silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father's house will perish. Yet who knows whether you have come to the kingdom for such a time as this?
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Esther+8%3A17&version=NKJV[Esther 8:17] And in every province and city, wherever the king’s command and decree came, the Jews had joy and gladness, a feast and a holiday. Then many of the people of the land became Jews, because fear of the Jews fell upon them.
+
+
+== Esther - Previews of Christ
+
+Esther provides a fitting picture of Christ in that she was willing to put herself in the place of death for her people's salvation, and as an advocate for them. In addition, we also see how God continued to providentially protect the Jews, through whom He would give the Messiah.
+
+
+
+== Summary
+
+These books illustrate the rise of the Jewish nation, rejection, judgment, restoration, miracles. Over the course of nearly a thousand years, God chose the Jewish people to be a witness and bring salvation to every other nation on earth. Before the revealing of the Messiah, these books displayed the principles of Christian love for enemies, forgiveness, and God's grace and mercy.
+
+Though the Jewish people experienced spiritual decline, the opportunity for restoration to God through repentance is and always was available.
+
+
+== Other Books?
+
+In Roman Catholic and Eastern Orthodox Bibles, they also contain some apocryphal books: Tobit, Judith, 1 Maccabees, 2 Maccabees.
+
+== Appendix
+
+Heavily indebted to https://bible.org/seriespage/4-historical-books
